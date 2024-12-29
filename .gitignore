@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.pyo
+
+# Directories
+__pycache__
+*/__pycache__
+
+.env
+*/__init__.py
+
+# Ignore files
+.env
+*/__init__.py
+
+*.env

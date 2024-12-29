@@ -93,11 +93,3 @@ Adjust settings in `config/settings.py`:
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is for educational purposes only. Use responsibly and in accordance with LinkedIn's terms of service.
-
-## Disclaimer
-
-This tool is meant for educational purposes and legitimate business outreach. Users are responsible for complying with LinkedIn's terms of service and maintaining appropriate usage patterns.

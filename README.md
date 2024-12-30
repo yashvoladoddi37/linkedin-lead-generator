@@ -1,4 +1,4 @@
-# LinkedIn Outreach Bot
+# LinkedIn Outreach AI Bot for Lead Generation
 
 An automated LinkedIn outreach tool designed to connect with early-career professionals from WITCH (Wipro, Infosys, TCS, Cognizant, HCL) companies.
 
